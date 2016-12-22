@@ -4,3 +4,4 @@ git is free.
 add dates.
 add T.
 add a branch & adate.
+add a branch and date.
