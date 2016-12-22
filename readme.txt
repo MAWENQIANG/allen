@@ -3,4 +3,4 @@ git is good control sysytem.
 git is free.
 add dates.
 add T.
-add a branch.
+add a branch and date.
